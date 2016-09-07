@@ -7,7 +7,7 @@ function suma(num1) {
 } 
 
 var suma2 = suma(2);
-console.log(suma2(5)); // Debería mostrar 7 de resultado
+console.log(suma2(5)); // Muestra 7 de resultado
 
 var suma12 = suma(12);
-console.log(suma12(76)) // Debería mostrar 88 de resultado.
+console.log(suma12(76)) // Muestra 88 de resultado.
